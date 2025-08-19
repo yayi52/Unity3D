@@ -40,7 +40,7 @@ Material:
     m_Floats:
     - _BUILTIN_QueueControl: 0
     - _BUILTIN_QueueOffset: 0
-    - _fresnelPower: 27.198273
+    - _fresnelPower: 21.40761
     m_Colors:
     - _baseColor1: {r: 0, g: 0.19607878, b: 1, a: 0}
     - _baseColor2: {r: 1, g: 0, b: 0.016949177, a: 0}
